@@ -3115,6 +3115,11 @@
 					display: none;
 				}
 
+.infogr {
+	width: 50%;
+	height: 70%;
+}
+
 		/* Footer */
 
 			#footer .copyright li {
@@ -3126,3 +3131,7 @@
 			}
 
 	}
+
+
+	
+	

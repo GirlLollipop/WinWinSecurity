@@ -1,12 +1,7 @@
 
     /*LOGIN*/
     
-    body {
-      background-image: url("assets/images/index.jpg");
-      background-size: cover;
-      width: 100vh;
-      height: 100%;
-    }
+ 
 
 	.login > form {
   height: auto;
@@ -36,3 +31,12 @@
 placeholder {
     color: black;
 }
+
+
+#login {
+  background-image: url("../images/img-background.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 100vh;
+	}
