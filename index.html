@@ -20,7 +20,7 @@
                         <!--botón para ingresar con Google-->
                         <div class="col l12 center google">
                             <a class="waves-effect waves-light btn" id="btn-google">
-                                <img class="left google-icon" src="" alt=""> Ingresa con Google</a>
+                                <img id="face" class="right" src="images/logo.png" alt=""> Ingresa con</a>
                         </div>
                         <div class="input-field name-login">
                             <input id="icon_prefix" type="text" class="validate">
@@ -30,14 +30,11 @@
                             <input id="pass" type="password" class="validate">
                             <label for="pass">Contraseña</label>
                         </div>
-                        <div>
+                        <div class="center">
                             <a class="waves-effect waves-light btn" id="btn-google" href="home.html">Ingresa</a>
                         </div>
-                        <div class="input-field col l12">
-                            <p class="center">
-                                <input type="checkbox" id="test5" />
-                                <label for="text5">Remember Me</label>
-                            </p>
+                        <div class="center">
+                            <h5>ó</h5>
                         </div>
                         <!--activa modal para registrarse-->
                         <div class="col l12 center">
@@ -49,15 +46,10 @@
         </section>
     </article>
     <!--modales-->
-    <div id="modal1" class="modal teal lighten-4">
+    <div id="modal1" class="modal teal lighten-4 col l6">
         <div class="modal-content">
             <div class="row">
                 <form class="col l6">
-                    <!---botón registrarse con Google-->
-                    <div class="col l6 center google">
-                        <a class="waves-effect waves-light btn" id="btn-google">
-                            <img class="left google-icon" src="" alt=""> Ingresa con Google</a>
-                    </div>
                     <div class="row">
                         <div class="input-field col s12">
                             <input placeholder="Nombre completo" id="name" type="text" class="validate">
@@ -76,11 +68,11 @@
                         </div>
                         <!--confirma contraseña-->
                         <div class="input-field col s12">
-                            <input placeholder="Confirma tu contraseña" id="password" type="text" class="validate">
+                            <input placeholder="Escribe tú código de tarjeta Win Win Security" id="password" type="text" class="validate">
                             <label for="password"></label>
                         </div>
-                        <div class="col s3 modal-footer">
-                            <a href="#!" class="modal-action modal-close waves-effect waves-light btn">Crear</a>
+                        <div class="col s2 modal-footer">
+                            <a href="home.html" class="modal-action modal-close waves-effect waves-light btn">Crear</a>
                         </div>
                     </div>
                 </form>
