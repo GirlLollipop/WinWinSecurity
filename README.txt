@@ -1,37 +1,102 @@
-Strata by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Version 1.0 06/04/18
+# WIN WIN SECURITY
+
+![login](https://preview.ibb.co/j0UD9x/WINWIN.png)
+
+## ELABORADO PARA [POLICIA FEDERAL](https://www.gob.mx/policiafederal)
+
+### DESCRIPCIÓN GENERAL
+
+Página web responsive dedicada al público infantil y adolescente en la cual el usuario interactúa con diferentes retos presentados en minijuegos, cuya historia y objetivo es concientizar al jugador respecto a los peligros que se corren al interactuar en una red social, creando una cultura de prevención y educación cibernética
+
+### METAS
+
+Lograr una cultura de prevención
+
+### ESPECIFICACIONES
+
+Crear una herramienta tecnologica que resuelva el problema enfocandonos en que sea usable para el publico al que va dirigida
+
+## OBJETIVO SMART
+
+![smart](https://preview.ibb.co/i9mwex/SMART.png)
+
+## INSIGHTS DE INVESTIGACIÓN
+
+![insights](https://preview.ibb.co/eTTL6c/talentland_3.png)
+
+## CUESTIONARIOS
+
+**INSIGHTS**
+
+![insights](https://preview.ibb.co/ih8EXH/info.png)
+
+## PERFIL USUARIOS
+
+![user](https://preview.ibb.co/eZqYRc/USER.png)
+
+## MAPA DE EMPATIA
+
+![mapa](https://preview.ibb.co/hcvpzx/mapa_empatia.png)
+
+## HISTORIA DE USUARIO
+
+![historia](https://preview.ibb.co/fTu8bc/historia_usuario.png)
+
+## DISEÑO
+
+**PALETA DE COLORES**
+
+- 3AB1AE- BOTONES
+- 9FDBE0 - FORMULARIO
+- 467EA7 - FONDO MENU
+- F0F6FA - FONDO GENERAL
+- 950675 - SUBTITULO
+- 109098 - TITULO
+- 978478 - TEXTO
+- 950675 - LOGO
+
+## DESCRIPCIÓN DE PÁGINA
+
+**LOGIN**
+
+-La idea es que los usuarios se puedan logear apartir del numero de su tarjeta
+
+![login](https://preview.ibb.co/j0UD9x/WINWIN.png)
+
+**TARJETA DE PUNTOS**
+
+- La tarjeta se pretende donar en centros educativos y lugares como convenciones de comics,
+en esta se acumularan sus puntos y podran ser canjeados por premios como entaradas a museos o descuentos de libros
+
+![tarjeta](https://preview.ibb.co/cxs89x/tarjeta.png)
+
+**COMIC**
+
+- El comic se presentara periodocamente para mantener el interes en volver a visitar la página
+
+![comic](https://preview.ibb.co/gvqLpx/wincomic.png)
+
+**JUEGOS**
+
+- Cada que pase de nivel podra acumular puntos que seran guardados en la tarjeta
+
+![juegos](https://preview.ibb.co/eN9kNH/juegos.png)
+
+**ESTRUCTURA DE PÁGINA**
+
+- Tendra videos, infografias que le proporcionaran información y podra compartir con sus contactos
+- Tendra a la mano la opción de tener comunicación con las autoridades correspondientes
+
+![pagina](https://preview.ibb.co/gjpkNH/videos.png)
 
 
-A simple, minimalist template that actually began life as an unused redesign of my
-personal site. Includes a (configurable) parallax background effect, Poptrox-powered
-lightbox gallery, a bunch of pre-styled elements, and Sass sources for the Sass-inclined.
+### INTEGRANTES DE EQUIPO
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+- Front-End Rosa María García
+- UI Designer Angelica Fuentes
+- UX Designer Maria Cravioto
 
-(* = Not included)
+### HERRAMIENTAS UTILIZADAS
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		CSS3 Pie (css3pie.com)
-		background-size polyfill (github.com/louisremi)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+![arquitectura](https://preview.ibb.co/dqRORc/herramientas.png)
